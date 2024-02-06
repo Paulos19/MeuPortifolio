@@ -38,7 +38,7 @@ const Footer = () => {
 
             <div className="right">
               <h4>Sobre os Projetos</h4>
-              <p>Trazer riqueza em detalhes, clareza nas decições e conforto para quem está 
+              <p>Trazer riqueza em detalhes, clareza nas decisões e conforto para quem está 
                 analisando, trazendo uma nova experiência para o contratante e o consumidor final.</p>
                 <div className="social">
                   <FaLinkedin size={40} 
